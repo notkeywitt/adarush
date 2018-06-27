@@ -2,7 +2,7 @@
 body {
 	font-family: source-sans-pro;
 	background-color: white;
-	margin-top: 0px;
+	margin-top: 10px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
@@ -50,18 +50,7 @@ header {
 
 }
 
-.light {
-	font-weight: bold;
-	color: #464646;
-}
-.tagline {
-	text-align: center;
-	color: #FFFFFF;
-	margin-top: 4px;
-	font-weight: lighter;
-	text-transform: uppercase;
-	letter-spacing: 10px;
-}
+
 /* Parallax Section */
 .banner {
 	background-color:  #B3B1B2;
