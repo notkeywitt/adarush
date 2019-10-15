@@ -1,25 +1,23 @@
 @charset "UTF-8";
-.container {
-	width:80%;
-	margin-top: none;
-	margin-left: auto;
-	margin-right: auto;
-	height: auto;
+#bg {
+background-color: whitesmoke;
+  position: fixed; 
+  top: 0;
+	\left: 0; 
+	
 }
+
 body {
-	font-family: source-sans-pro;
-	  background-image: url("bkg2.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-	margin-top: 20px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 38pt;
+	margin-top: 0px;
 	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left: 0px;
-	font-style: normal;
-	font-weight: 200;
-	list-style-type: none;
 	text-align: center;
+	color:black;
 }
+
 
 content {
 	text-align: center;
