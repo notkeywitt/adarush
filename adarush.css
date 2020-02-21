@@ -1,11 +1,26 @@
 @charset "UTF-8";
+<<<<<<< HEAD
 body {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-color: white;
+=======
+#bg {
+background-color: paleGoldenRodYellow;
+  position: fixed; 
+  top: 0;
+	\left: 0; 
+	
+}
+
+body {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 38pt;
+>>>>>>> origin/master
 	margin-top: 0px;
 	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left: 0px;
+<<<<<<< HEAD
 	font-style: normal;
 	font-weight: 200;
 	list-style-type: none;
@@ -69,6 +84,14 @@ header {
 
 .hero {
 	background-color: #ffffff;
+=======
+	text-align: center;
+	color:black;
+}
+
+
+content {
+>>>>>>> origin/master
 	text-align: center;
 	margin-top: 5px;
 	font-weight: lighter;
