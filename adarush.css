@@ -127,15 +127,18 @@ a2:link, a2:visited {
 footer {
 	background-color: #FFFFFF;
 	padding-bottom: 5px;
+	text-align: center; 
+	align-content: center;
 }
 a:link, a:visited {
-    color: black;
-    padding: 5px 0px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
+	color: black;
+	padding: 5px 0px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
 	list-style: none;
 	font-weight: bold;
+	align-content: center;
 }
 
 
