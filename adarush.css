@@ -1,26 +1,23 @@
 @charset "UTF-8";
-<<<<<<< HEAD
+HEAD
 body {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-color: white;
-=======
-#bg {
-background-color: paleGoldenRodYellow;
+
+bg {
+	background-color: paleGoldenRodYellow;
   position: fixed; 
-  top: 0;
-	\left: 0; 
+  top: 0;left: 0; 
 	
 }
 
 body {
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-size: 38pt;
->>>>>>> origin/master
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 20px;
 	margin-left: 0px;
-<<<<<<< HEAD
 	font-style: normal;
 	font-weight: 200;
 	list-style-type: none;
